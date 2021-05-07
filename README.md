@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Haserott
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on creating new tools 
+- 📫 Reach me at @matt.amphetamine, on instagram
